@@ -13,3 +13,6 @@ Algorithms implemented for graduate admission regression problem:
 8. Multi-layer perceptron regressor
 
 Plotted the scores with respect to algorithms implemented to analyse optimal method
+
+
+Azure implementation: https://gallery.cortanaintelligence.com/Experiment/Graduate-school-prediction
